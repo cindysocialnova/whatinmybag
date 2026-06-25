@@ -20,7 +20,7 @@ const heroData = {
 const splitData = [
   {
     type: 'left',
-    image: 'images/email mockup.png',
+    image: 'email mockup.png',
     alt: 'Beauty Statute Product',
     title: 'About Me!',
     description: 'Marketing professional with experience in social media marketing, analytics, and search optimization. I love combine data and branding to create a unipe and dythimic marketing campgi[...]',
@@ -29,7 +29,7 @@ const splitData = [
   },
   {
     type: 'right',
-    image: 'images/email mockup1.png',
+    image: 'email mockup1.png',
     alt: 'Product Image',
     title: 'Services',
     description: 'I bridge the gap between creative strategy and data analytics to build high-converting content pipelines, ensuring compelling visual storytelling and a cohesive brand presence across[...]',
